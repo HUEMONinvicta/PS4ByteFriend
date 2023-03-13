@@ -1,1 +1,3 @@
-
+function start() {
+  alert("TEST")
+}
