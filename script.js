@@ -1,3 +1,3 @@
 function start() {
-  alert("TEST")
+  window.open("jailbreak.html")
 }
